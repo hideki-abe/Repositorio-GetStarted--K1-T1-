@@ -2,7 +2,7 @@
 
 <html>
     <body>
-        <h1>Citação dos comandos que acredito que sejam os mais importantes ou os que mais usarei </h1> 
+        <h3>Citação dos comandos que acredito que sejam os mais importantes ou os que mais usarei </h3> 
         <ol>
             <li> git init  </li>
             <li> git log --oneline </li>
