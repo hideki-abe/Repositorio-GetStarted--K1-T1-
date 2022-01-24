@@ -14,11 +14,8 @@
             <li> git checkout  </li>
             <li> git clone  </li>
             <li> git push  </li>
-            <li> git status  </li>
-            <li> git push </li>
             <li> git remote add origin "endereço do repositório"  </li>
             <li> git reset -hard HEAD~1  </li>
-            <li> git status  </li>
             <li> git merge "nome do branch" </li>
         </ol> 
     </body>
